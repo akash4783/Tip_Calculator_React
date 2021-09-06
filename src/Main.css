@@ -1,0 +1,135 @@
+.container {
+    background-color: aliceblue;
+    height: 50vh;
+    width: auto;
+    border-radius: 15px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+.amt {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: unset;
+    margin-top: unset;
+}
+
+.input {
+    background-color: rgb(139, 139, 238);
+    padding-top: 20px;
+    text-align: center;
+    border: 2px solid darkred;
+    border-radius: 5px;
+    margin-top: 5px;
+    justify-content: center;
+}
+
+.folk {
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    border-bottom:darkslategrey;
+    border-right: darkslategrey;
+    border-left: darkslategrey;
+
+}
+
+.drop {
+    margin-left: 5px;
+}
+
+.cool {
+    margin-left: 15px;
+    padding-right: 15px;
+}
+
+.adda {
+    background-color:rgb(133, 93, 168);
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.list {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.textarea {
+    background-color: rgb(188, 149, 196);
+    border: 2px solid darkred;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.cust {
+    margin-top: auto;
+    margin-bottom: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-right: darkslategrey;
+    border-left: darkslategrey;
+    border-top: darkslategray;
+}
+
+.sony {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.center_div {
+    margin-bottom: 50px;
+}
+
+.area {
+    border: solid;
+    margin: 0px;
+    width: 577px;
+    height: 76px;
+}
+
+.submit {
+    text-align: center;
+}
+.ctc {
+    background-color:red;
+    color:gold;
+    align-items: center;
+    font-style: italic;
+}
+
+.one{
+    width:700px;
+    text-align: center;
+}
+
+.two{
+    width:300px;
+    text-align: center;
+}
+
+.tab th{
+    border: solid thin black;
+}
+
+.tab td{
+    border: solid thin black;
+}
+
+.footer {
+    background-color: navy;
+    border: 2px solid brown;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.futer {
+    color: white;
+    margin-top: unset;
+    margin-bottom: unset;
+}
